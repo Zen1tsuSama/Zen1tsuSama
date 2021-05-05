@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zen1tsuSama
-- 👀 I’m interested in new tools and technologies and basically any type of software development
-- 🌱 I’m currently learning full stack web development
+- 👀 I’m interested in new tools, technologies and basically any kind of software development
+- 🌱 I’m currently learning android application and full stack web development
 - 💞️ I’m looking to collaborate on android application and web development projects
 - 📫 How to reach me email me at rohit.choudhary.eee15@itbhu.ac.in
 
